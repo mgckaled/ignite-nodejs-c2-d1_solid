@@ -42,7 +42,7 @@
 
 ## Sobre o Projeto
 
-Esse projeto contém a resolução do Desafio 03 (Chapter 1) da trilha Ignite Node.js 2021 produzido pela Rocketseat Education. Detalhes do desafio Solid [aqui](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72) e do desafio Swagger [aqui](https://www.notion.so/Desafio-02-Documentando-com-Swagger-8ce869ea608743e292851bd951f3239f).
+Esse projeto contém a resolução do Desafio 01 e 02 (Chapter 2) da trilha Ignite Node.js 2021 produzido pela Rocketseat Education. Detalhes do desafio Solid [aqui](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72) e do desafio Swagger [aqui](https://www.notion.so/Desafio-02-Documentando-com-Swagger-8ce869ea608743e292851bd951f3239f).
 
 ## Configurações
 
